@@ -1,4 +1,4 @@
-import { MenuEntry } from '@bobaswap-libs/uikit'
+import { MenuEntry } from '@pancakeswap-libs/uikit'
 
 const config: MenuEntry[] = [
   {
@@ -54,7 +54,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x469cd8507B4598cfE15f36C3929E31c0C19c7432',
       },
     ]
   },
@@ -68,29 +68,29 @@ const config: MenuEntry[] = [
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://bobateaswap.gitbook.io/boba-tea-swap/",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "http://bobateaswap.medium.com",
       },
     ],
   },
   {
     label: 'Partnerships/IFO',
     icon: 'GooseIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
+    href: 'https://docs.google.com/forms/d/e/1FAIpQLScVGS6HpKniXNupk40mSH4Crdi-WJJScDjBKwzZUksUZekYyQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7628',
   },
-  {
-    label: 'Audit by Hacken',
-    icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
-  },
-  {
-    label: 'Audit by CertiK',
-    icon: 'AuditIcon',
-    href: 'https://certik.org/projects/goose-finance',
-  },
+  // {
+  //   label: 'Audit by Hacken',
+  //   icon: 'AuditIcon',
+  //   href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+  // },
+  // {
+  //   label: 'Audit by CertiK',
+  //   icon: 'AuditIcon',
+  //   href: 'https://certik.org/projects/goose-finance',
+  // },
 ]
 
 export default config

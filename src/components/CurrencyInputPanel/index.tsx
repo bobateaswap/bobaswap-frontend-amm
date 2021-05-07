@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@bobaswap/sdk'
-import { Button, ChevronDownIcon, Text } from '@bobaswap-libs/uikit'
+import { Currency, Pair } from '@pancakeswap-libs/sdk'
+import { Button, ChevronDownIcon, Text } from '@pancakeswap-libs/uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'
 import { useCurrencyBalance } from '../../state/wallet/hooks'
