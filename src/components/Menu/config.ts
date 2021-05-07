@@ -22,12 +22,12 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Farms',
+    label: 'Boba Factories',
     icon: 'FarmIcon',
     href: 'https://www.bobateaswap.com/farms'
   },
   {
-    label: 'Nests',
+    label: 'Tea Bags',
     icon: 'PoolIcon',
     href: 'https://www.bobateaswap.com/nests'
   },
@@ -36,28 +36,28 @@ const config: MenuEntry[] = [
   //   icon: 'TicketIcon',
   //   href: 'https://www.goosedefi.com/lottery'
   // },
-  {
-    label: 'Info',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x5068339C71Dbf01ECEbA53f143C1Fd763E178dF0',
-      },
-      {
-        label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/goose-finance',
-      },
-      {
-        label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/goose-finance/',
-      },
-      {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x469cd8507B4598cfE15f36C3929E31c0C19c7432',
-      },
-    ]
-  },
+  // {
+  //   label: 'Info',
+  //   icon: 'InfoIcon',
+  //   items: [
+  //     {
+  //       label: 'PancakeSwap',
+  //       href: 'https://pancakeswap.info/token/0x5068339C71Dbf01ECEbA53f143C1Fd763E178dF0',
+  //     },
+  //     {
+  //       label: 'CoinGecko',
+  //       href: 'https://www.coingecko.com/en/coins/goose-finance',
+  //     },
+  //     {
+  //       label: 'CoinMarketCap',
+  //       href: 'https://coinmarketcap.com/currencies/goose-finance/',
+  //     },
+  //     {
+  //       label: 'AstroTools',
+  //       href: 'https://app.astrotools.io/pancake-pair-explorer/0x469cd8507B4598cfE15f36C3929E31c0C19c7432',
+  //     },
+  //   ]
+  // },
   {
     label: 'More',
     icon: 'MoreIcon',
